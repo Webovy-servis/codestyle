@@ -1,0 +1,23 @@
+{
+  "name": "weseus/coding-standards",
+  "license": "MIT",
+  "description": "Coding standards for Webovy-servis.cz",
+  "homepage": "https://webovy-servis.cz",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Webový servis Company s.r.o.",
+      "email": "vrchota@webovy-servis.cz",
+      "homepage": "https://webovy-servis.cz"
+    }
+  ],
+  "require": {
+    "slevomat/coding-standard": "7.0.16"
+  },
+  "minimum-stability": "stable",
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true
+    }
+  }
+}
