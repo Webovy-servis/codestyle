@@ -108,6 +108,7 @@
         <exclude name="Squiz.Commenting.FunctionComment.TypeHintMissing"/>
         <exclude name="Squiz.Functions.FunctionDeclarationArgumentSpacing.SpacingAfterHint"/>
         <exclude name="SlevomatCodingStandard.Functions.DisallowNamedArguments.DisallowedNamedArgument"/>
+        <exclude name="SlevomatCodingStandard.Functions.RequireTrailingCommaInDeclaration.MissingTrailingComma"/>
     </rule>
 
     <rule ref="SlevomatCodingStandard.Variables.UnusedVariable">
